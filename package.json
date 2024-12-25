@@ -2,7 +2,7 @@
   "name": "system-engineer-development-pack",
   "displayName": "System Engineer Development Pack",
   "description": "Popular Visual Studio Code extensions for System Engineer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "day253",
   "license": "MIT",
   "repository": {
