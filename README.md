@@ -1,3 +1,13 @@
+[github-shield]: https://img.shields.io/github/stars/day253/system-engineer-development-pack?style=social
+[github-url]: https://github.com/day253/system-engineer-development-pack
+[vscode-shield]: https://img.shields.io/visual-studio-marketplace/r/day253.system-engineer-development-pack?logo=visual-studio-code&style=social
+[vscode-url]: https://marketplace.visualstudio.com/items?itemName=day253.system-engineer-development-pack
+
+[![Github Repo][github-shield]][github-url]
+[![VSCode Plugin][vscode-shield]][vscode-url]
+![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/day253.system-engineer-development-pack?logo=visual-studio-code&style=social)
+![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/day253.system-engineer-development-pack?logo=visual-studio-code&style=social)
+
 # system-engineer-development-pack README
 
 ## Working with Markdown
