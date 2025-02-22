@@ -1,1 +1,1 @@
-vsce package && vsce publish
+vsce package && vsce publish minor
