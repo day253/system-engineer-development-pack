@@ -2,7 +2,7 @@
   "name": "system-engineer-development-pack",
   "displayName": "System Engineer Development Pack",
   "description": "Popular Visual Studio Code extensions for System Engineer",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "day253",
   "license": "MIT",
   "repository": {
@@ -27,8 +27,14 @@
   ],
   "extensionPack": [
     "golang.go",
+    "ms-python.black-formatter",
+    "ms-python.isort",
+    "ms-python.python",
+    "ms-vscode-remote.vscode-remote-extensionpack",
     "ms-vscode.cmake-tools",
     "ms-vscode.cpptools",
-    "twxs.cmake"
+    "redhat.vscode-yaml",
+    "twxs.cmake",
+    "tyriar.sort-lines"
   ]
 }
