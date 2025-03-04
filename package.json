@@ -36,5 +36,7 @@
     "redhat.vscode-yaml",
     "twxs.cmake",
     "tyriar.sort-lines"
-  ]
+  ],
+  "deprecated": true,
+  "deprecationMessage": "此扩展包已不再维护。请考虑使用其他替代方案。"
 }
